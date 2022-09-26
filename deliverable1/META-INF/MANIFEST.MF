@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Deliverable1
+Bundle-SymbolicName: deliverable1
+Bundle-Version: 1.0.0.qualifier
+Automatic-Module-Name: deliverable1
+Bundle-RequiredExecutionEnvironment: JavaSE-18
+Import-Package: com.puppycrawl.tools.checkstyle.api
